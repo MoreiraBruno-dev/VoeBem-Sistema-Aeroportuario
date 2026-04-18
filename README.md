@@ -22,3 +22,20 @@ Este é um sistema web desenvolvido para o gerenciamento de operações de uma c
    - Execute
 4. Coloque a pasta `src` dentro do diretório `htdocs` do seu XAMPP.
 5. Acesse no navegador: `localhost/src/index.php`.
+
+## Screenshots
+### Tela de Inicio
+![Tela de Inicio](./screenshots/tela-inicial.png)
+
+### Cadastro de Funcionarios
+![Tela de Cadastro de Novos Funcionarios](./screenshots/Cadastro-funcionarios.png)
+
+### Cadastro de Passageiros
+![Tela de Cadastro de Novos Passageiros](./screenshots/Cadastro-passageiros.png)
+
+### Cadastro de Aeronaves
+![Tela de Cadastro de Novas Aeronaves](./screenshots/Cadastro-aeronaves.png)
+
+### Cadastro de Viagens
+![Tela de Cadastro de Novas Viagens](./screenshots/Cadastro-viagens.png)
+
